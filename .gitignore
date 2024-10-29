@@ -1,0 +1,8 @@
+test/
+data/
+
+*.lock
+
+node_modules/
+.ipynb_checkpoints/lmb-checkpoint.ipynb
+.DS_Store

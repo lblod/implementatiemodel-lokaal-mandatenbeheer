@@ -1,0 +1,29 @@
+{
+  "name": "implementatiemodel-lokaal-mandatenbeheer",
+  "description": "Put anonymized datadump inside folder `data/db/toLoad/`",
+  "version": "0.0.1",
+  "main": "lmb.ipynb",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@comunica/query-sparql": "^4.0.2",
+    "@lblod/lib-decision-validation": "^1.0.39"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lblod/implementatiemodel-lokaal-mandatenbeheer.git"
+  },
+  "author": "Brecht Van de Vyvere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lblod/implementatiemodel-lokaal-mandatenbeheer/issues"
+  },
+  "homepage": "https://github.com/lblod/implementatiemodel-lokaal-mandatenbeheer#readme"
+}
