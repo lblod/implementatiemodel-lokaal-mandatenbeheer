@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@lblod/lib-decision-validation": "1.0.40-beta.0"
+    "@lblod/lib-decision-validation": "1.0.42"
   },
   "repository": {
     "type": "git",
